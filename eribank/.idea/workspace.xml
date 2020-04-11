@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53cbc7df-440c-461f-87cb-74b565f6da50" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/../RepositorioEDS/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../RepositorioEDS/build/" />
+    <ignored path="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/build/" />
+    <ignored path="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../RepositorioEDS">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/../RepositorioEDS">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EDS_Ecosistemas_de_Servicio" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/co/com/qvision/eribank/stepdefinitions/LoginUserStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/build.gradle" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckQuestionFile.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckArticleCreate.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckCategoryDelete.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckCategoryToDelete.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckQuestionAfterQualification.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckQuestionToEdit.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckTopicCreate.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckTopicDelete.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckTopicToDelete.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/ChooseQuestionToRate.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/SearchArticleId.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/SearchCategoriesId.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/SearchQuestionId.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/SearchTopicId.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/SelectArticleToSearch.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/SelectCreationDates.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/VerifyDownloadQuestionRatingFile.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckCategoryCreate.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/CategoryCreated.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/CategoryDelete.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/ArticleCreated.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/CreateNewArticle.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/CreateNewCategorie.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/CreateNewTopic.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/EditArticle.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/EditQuestion.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/ListArticles.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/ListCategories.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/ListTopics.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/SearchQuestion.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/WriteQuestion.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/TopicDelete.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/TopicCreated.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/ReviewRating.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/qualification/QualificationDislikeWithCommentStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/qualification/RateNotUsefulQuestionStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/qualification/RateUsefulQuestionStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/categories/DeleteAnCategoryStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/articles/CreateArticleStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/articles/EditArticleStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/articles/SearchArticleStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/categories/CreateNewCategorieStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/categories/ListCategoriesAndUpdateStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/questions/CreateQuestionStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/questions/EditQuestionStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/topics/CreateNewTopicStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/topics/DeleteAnTopicStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/topics/ListTopicsAndUpdateStepDefinitions.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="width" value="1362" />
+    <option name="height" value="399" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/build.gradle" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RateUsefulQuestion">
+    <configuration type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EDS_Ecosistemas_de_Servicio.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.faqs.topics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.faqs.topics" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (2)" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateArticle" type="JUnit" factoryName="JUnit">
+      <module name="EDS_Ecosistemas_de_Servicio" />
+      <shortenClasspath name="MANIFEST" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (2)" />
+      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.articles" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateArticle" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="EDS_Ecosistemas_de_Servicio.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.articles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (2)" />
+      <option name="PACKAGE_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.articles" />
+      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.articles.CreateArticle" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateArticle.java" type="JUnit" factoryName="JUnit">
+      <module name="EDS_Ecosistemas_de_Servicio" />
+      <shortenClasspath name="MANIFEST" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (2)" />
+      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.articles" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateNewCategorie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EDS_Ecosistemas_de_Servicio.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.faqs.categories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (2)" />
+      <option name="PACKAGE_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.faqs.categories" />
+      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.faqs.categories.CreateNewCategorie" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QualificationDislikeWithComment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EDS_Ecosistemas_de_Servicio.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.qualification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.qualification" />
+      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.qualification.QualificationDislikeWithComment" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateNotUsefulQuestion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EDS_Ecosistemas_de_Servicio.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.qualification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.qualification" />
+      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.qualification.RateNotUsefulQuestion" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateUsefulQuestion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EDS_Ecosistemas_de_Servicio.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.qualification.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.qualification" />
+      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.qualification.RateUsefulQuestion" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ecosistemadelservicio" type="JUnit" factoryName="JUnit">
+      <module name="EDS_Ecosistemas_de_Servicio.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.articles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (2)" />
+      <option name="PACKAGE_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.articles" />
+      <option name="MAIN_CLASS_NAME" value="co.com.bancolombia.certificacion.ecosistemadelservicio.runners.articles" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CreateArticle" />
+      <item itemvalue="JUnit.CreateArticle.java" />
+      <item itemvalue="JUnit.ecosistemadelservicio" />
+      <item itemvalue="JUnit.CreateNewCategorie" />
+      <item itemvalue="JUnit.QualificationDislikeWithComment" />
+      <item itemvalue="JUnit.RateNotUsefulQuestion" />
+      <item itemvalue="JUnit.RateUsefulQuestion" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RateUsefulQuestion" />
+        <item itemvalue="JUnit.RateNotUsefulQuestion" />
+        <item itemvalue="JUnit.QualificationDislikeWithComment" />
+        <item itemvalue="JUnit.CreateArticle" />
+        <item itemvalue="JUnit.CreateNewCategorie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53cbc7df-440c-461f-87cb-74b565f6da50" name="Default Changelist" comment="" />
+      <created>1586292186169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586292186169</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="QualificationDislikeWithComment - 2020.04.11 at 11h 23m 33s.xml">
+      <configuration name="QualificationDislikeWithComment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RateNotUsefulQuestion - 2020.04.11 at 11h 26m 34s.xml">
+      <configuration name="RateNotUsefulQuestion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QualificationDislikeWithComment - 2020.04.11 at 11h 47m 05s.xml">
+      <configuration name="QualificationDislikeWithComment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QualificationDislikeWithComment - 2020.04.11 at 11h 50m 42s.xml">
+      <configuration name="QualificationDislikeWithComment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QualificationDislikeWithComment - 2020.04.11 at 11h 52m 48s.xml">
+      <configuration name="QualificationDislikeWithComment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QualificationDislikeWithComment - 2020.04.11 at 12h 08m 06s.xml">
+      <configuration name="QualificationDislikeWithComment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QualificationDislikeWithComment - 2020.04.11 at 12h 08m 47s.xml">
+      <configuration name="QualificationDislikeWithComment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RateNotUsefulQuestion - 2020.04.11 at 12h 09m 37s.xml">
+      <configuration name="RateNotUsefulQuestion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RateNotUsefulQuestion - 2020.04.11 at 12h 10m 50s.xml">
+      <configuration name="RateNotUsefulQuestion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RateUsefulQuestion - 2020.04.11 at 12h 13m 04s.xml">
+      <configuration name="RateUsefulQuestion" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3184569" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.1452345" side_tool="true" weight="0.79541737" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49848714" weight="0.15711948" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.85476553" visible="true" weight="0.10310966" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.66448444" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" sideWeight="0.6580938" weight="0.58756137" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Gradle" order="9" weight="0.056732222" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25869894" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.1452345" side_tool="true" weight="0.79541737" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49848714" weight="0.15711948" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.85476553" weight="0.29787233" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3371522" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" sideWeight="0.6580938" weight="0.58756137" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Gradle" order="9" visible="true" weight="0.056732222" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/articles/CreateArticleStepDefinitions.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/ArticleCreated.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/articles/CreateArticleStepDefinitions.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/CreateNewArticle.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>strQualificationAfter</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strQualificationBefore</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strDataArticle</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strDataArticle[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nameArticle.getTitleArticle().concat(String.valueOf(strNextArticle))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckArticleCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/DownloadRatingFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/ArticleCreated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/CategoryDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/EditArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/EditQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/ListCategories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/SearchQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/WriteQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/TopicDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/TopicCreated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/resources/features/qualification/qualification_dislike_with_comment.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.com.bancolombia.certificacion/conexion-bd/4.2.1/648e20d557c3e2acaed764dd8ee1eb1fc57cd5aa/conexion-bd-4.2.1.jar!/co/com/bancolombia/conexion/utilidades/properties/PropertiesManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.com.bancolombia.certificacion/conexion-bd/4.2.1/648e20d557c3e2acaed764dd8ee1eb1fc57cd5aa/conexion-bd-4.2.1.jar!/co/com/bancolombia/conexion/basedatos/MySqlConnectionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.com.bancolombia.certificacion/conexion-bd/4.2.1/648e20d557c3e2acaed764dd8ee1eb1fc57cd5aa/conexion-bd-4.2.1.jar!/co/com/bancolombia/conexion/basedatos/ConnectionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#834#835#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.7/3150039466ad03e6ef1c7ec1c2cbb0d96710cf64/slf4j-simple-1.7.7-sources.jar!/org/slf4j/impl/SimpleLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="621" selection-start-line="621" selection-end-line="621" />
+          <folding>
+            <element signature="e#22207#22208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/CheckQuestionAfterQualification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="69" selection-start-line="25" selection-start-column="22" selection-end-line="29" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-core/2.4.0/e7030ed3ddb9e3e448733c2787e8da771df50c1f/cucumber-core-2.4.0-sources.jar!/cucumber/runtime/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/DeleteAnTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/DeleteAnCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/runners/qualification/QualificationDislikeWithComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/CreateNewArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/ListArticles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/articles/SearchArticleStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/articles/EditArticleStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/articles/CreateArticleStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="39" column="51" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/CreateNewCategorie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/categories/ListCategoriesAndUpdateStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="35" column="60" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/questions/CreateQuestionStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="34" column="84" selection-start-line="34" selection-start-column="84" selection-end-line="34" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/categories/DeleteAnCategoryStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="49" column="51" lean-forward="true" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/categories/CreateNewCategorieStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="43" column="70" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/questions/LogInAdministrativeConsoleStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/questions/EditQuestionStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="35" column="82" selection-start-line="35" selection-start-column="82" selection-end-line="35" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/topics/CreateNewTopicStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="36" column="51" lean-forward="true" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/CreateNewTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/tasks/ListTopics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/topics/ListTopicsAndUpdateStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/topics/DeleteAnTopicStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="51" column="84" selection-start-line="51" selection-start-column="84" selection-end-line="51" selection-end-column="84" />
+          <folding>
+            <element signature="e#2129#2130#0" expanded="true" />
+            <element signature="e#2218#2219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/TestFailedOfDownloadQuestionFileStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/EditQuestionAndPublishStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/DownloadQuestionsratingFileStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/DownloadQuestionsFileStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/faqs/CreateQuestionAndPublishStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/integration/ChooseQuestionToRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/questions/ReviewRating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1114">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/qualification/RateUsefulQuestionStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="39" column="52" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/qualification/RateNotUsefulQuestionStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/test/java/co/com/bancolombia/certificacion/ecosistemadelservicio/stepdefinitions/qualification/QualificationDislikeWithCommentStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="58" column="54" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/utils/PageUrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/utils/MainMenuConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RepositorioEDS/AW1234001_EDServicio_Test/EDS_Ecosistemas_de_Servicio/src/main/java/co/com/bancolombia/certificacion/ecosistemadelservicio/utils/GeneralMenuConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
